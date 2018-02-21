@@ -1,4 +1,4 @@
-## Forked from [https://github.com/locnh/docker-magento(https://github.com/locnh/docker-magento)
+Forked from [https://github.com/locnh/docker-magento](https://github.com/locnh/docker-magento)
 
 ## What is this ?
 A minimal Docker container built with CentOS 7, NGINX and PHP with compatible version and modules for Magento2.
